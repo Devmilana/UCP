@@ -22,7 +22,7 @@ There’s no proper commit history because it wasn’t developed using GitHub.
     <tr>
         <td><strong>2023</strong></td>
         <td><a href="https://github.com/Devmilana/PDI">PDI</a></td>
-        <td><a href="https://github.com/Devmilana/UCP">UCP</a>, <a href="#">DSA</a></td>
+        <td><a href="https://github.com/Devmilana/UCP">UCP</a>, <a href="https://github.com/Devmilana/DSA">DSA</a></td>
     </tr>
     <tr>
         <td><strong>2024</strong></td>
