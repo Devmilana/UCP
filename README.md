@@ -1,4 +1,4 @@
-# Unix and C Programming
+# Unix and C Programming (UCP)
 
 Part of my Software Engineering degree at Curtin University Colombo in 2023.  
 
