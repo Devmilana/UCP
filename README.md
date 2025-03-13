@@ -2,9 +2,7 @@
 
 Part of my Software Engineering degree at Curtin University Colombo in 2023.  
 
-This module was an introduction to **C programming** and **Unix-based development**. My final mark was **95**.  
-
-There’s no proper commit history because it wasn’t developed using GitHub.  
+This module introduced **C programming** and **Unix-based development**. My final mark was **95%**.  
 
 ---
 
@@ -26,8 +24,8 @@ There’s no proper commit history because it wasn’t developed using GitHub.
     </tr>
     <tr>
         <td><strong>2024</strong></td>
-        <td><a href="#">OOSE</a>, <a href="#">OS</a></td>
-        <td><a href="#">MAD</a>, <a href="#">DC</a>, <a href="#">DBS</a></td>
+        <td><a href="https://github.com/Devmilana/OOSE">OOSE</a>, <a href="https://github.com/Devmilana/OS">OS</a></td>
+        <td><a href="https://github.com/Devmilana/MAD">MAD</a>, <a href="https://github.com/Devmilana/DC">DC</a>, <a href="https://github.com/Devmilana/DBS">DBS</a></td>
     </tr>
 </table>
 
